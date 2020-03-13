@@ -4,13 +4,13 @@ Temporary TMS for Missing Maps projects
 
 ## How to use
 
-In GitHub Desktop clone the repository and open in explorer:
-
-1. Add your TMS to the GitHub folder on your computer
-2. Open GitHub desktop
-3. Write in the summary box what you are uploading
-2. Click commit to master 
-3. Click push
+1. Download GitHub Desktop 
+2. Clone the repository and open in explorer
+3. Add your TMS to the GitHub folder on your computer
+4. Open GitHub desktop
+5. Write in the summary box what you are uploading
+6. Click commit to master 
+7. Click push
 
 The imagery is now available for any OSM editor under:
 
